@@ -976,17 +976,11 @@
     },
     {
         "id": 65,
-        "name": "Pixel Chat",
-        "username": "sigmauaralarpersahur",
-        "repository": "apps",
-        "path": "pixel-chat",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "Classroom Center",
-        "authorLink": "https://sites.google.com/classroom.center/view-1/",
+        "name": "Jumbo AI",
+        "cover": "https://jumbo-v1.web.app/assets/logo.png",
+        "url": "https://jumbo-v1.web.app/?referrer_url=gn-sciencex.github.io"
         "special": [
-            "Apps"
+            "Advertisement"
         ]
     },
     {
