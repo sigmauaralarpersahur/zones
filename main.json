@@ -978,7 +978,7 @@
         "id": 65,
         "name": "Jumbo AI",
         "cover": "https://jumbo-v1.web.app/assets/logo.png",
-        "url": "https://jumbo-v1.web.app/?referrer_url=gn-sciencex.github.io",
+        "url": "https://jumbo-v1.web.app/?utm_source=gn-sciencex.github.io",
         "special": [
             "Advertisement"
         ]
