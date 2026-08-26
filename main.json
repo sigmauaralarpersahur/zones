@@ -1,24 +1,9 @@
 [
     {
-        "id": -1,
+        "id": 0,
         "name": "[!] .gg/F8kc4FKjnw",
         "cover": "https://yt3.googleusercontent.com/hVPqpBzNp7dZGdki6stMGajiQeyjSPKkfUyadI-vGl7ix558fYw91FhakZC0U7UR03-RJND6Fc8=s160-c-k-c0x00ffffff-no-rj",
         "url": "https://discord.gg/F8kc4FKjnw"
-    },
-    {
-        "id": 0,
-        "name": "[!] Community Chat",
-        "username": "sigmauaralarpersahur",
-        "repository": "apps",
-        "path": "padlet",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "gn-science",
-        "authorLink": "https://gn-science.github.io/",
-        "special": [
-            "Apps"
-        ]
     },
     {
         "id": 1,
