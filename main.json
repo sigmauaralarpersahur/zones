@@ -761,7 +761,7 @@
         "author": "TFD Soft",
         "authorLink": "https://github.com/tfdsoft/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NES"
         ]
     },
     {
@@ -776,7 +776,7 @@
         "author": "Rockstar Games",
         "authorLink": "https://www.rockstargames.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "PSX"
         ]
     },
     {
@@ -791,7 +791,7 @@
         "author": "Digital Eclipse",
         "authorLink": "https://digitaleclipse.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -995,7 +995,7 @@
         "author": "Rockstar Games",
         "authorLink": "https://www.rockstargames.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBC"
         ]
     },
     {
@@ -1010,7 +1010,7 @@
         "author": "Rockstar Games",
         "authorLink": "https://www.rockstargames.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "PSX"
         ]
     },
     {
@@ -1025,7 +1025,7 @@
         "author": "Rockstar Games",
         "authorLink": "https://www.rockstargames.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -1040,7 +1040,7 @@
         "author": "HAL Laboratory",
         "authorLink": "https://www.hallab.co.jp/eng/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "N64"
         ]
     },
     {
@@ -1055,7 +1055,7 @@
         "author": "Rockstar Games",
         "authorLink": "https://www.rockstargames.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "PSX"
         ]
     },
     {
@@ -1885,7 +1885,7 @@
     },
     {
         "id": 127,
-        "name": "Call of Duty: World at War (NDS)",
+        "name": "Call of Duty: World at War",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/call-of-duty-world-at-war",
@@ -1895,12 +1895,12 @@
         "author": "n-Space",
         "authorLink": "https://web.archive.org/web/20160313032539/http://www.n-space.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
         "id": 128,
-        "name": "Call of Duty 4: Modern Warfare (NDS)",
+        "name": "Call of Duty 4: Modern Warfare",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/call-of-duty-4-modern-warfare",
@@ -1910,7 +1910,7 @@
         "author": "n-Space",
         "authorLink": "https://web.archive.org/web/20160313032539/http://www.n-space.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -1925,7 +1925,7 @@
         "author": "n-Space",
         "authorLink": "https://web.archive.org/web/20160313032539/http://www.n-space.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -1940,7 +1940,7 @@
         "author": "n-Space",
         "authorLink": "https://web.archive.org/web/20160313032539/http://www.n-space.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -1955,7 +1955,7 @@
         "author": "n-Space",
         "authorLink": "https://web.archive.org/web/20160313032539/http://www.n-space.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -1970,7 +1970,7 @@
         "author": "Pocketeers",
         "authorLink": "https://www.mobygames.com/company/4549/pocketeers/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -1985,7 +1985,7 @@
         "author": "Exient Entertainment",
         "authorLink": "https://exient.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -2000,7 +2000,7 @@
         "author": "Pocketeers",
         "authorLink": "https://www.mobygames.com/company/4549/pocketeers/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -2015,7 +2015,7 @@
         "author": "Pocketeers",
         "authorLink": "https://www.mobygames.com/company/4549/pocketeers/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -2030,7 +2030,7 @@
         "author": "Pocketeers",
         "authorLink": "https://www.mobygames.com/company/4549/pocketeers/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -2045,7 +2045,7 @@
         "author": "Pocketeers",
         "authorLink": "https://www.mobygames.com/company/4549/pocketeers/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -2060,7 +2060,7 @@
         "author": "Pocketeers",
         "authorLink": "https://www.mobygames.com/company/4549/pocketeers/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -2075,7 +2075,7 @@
         "author": "Firebrand Games",
         "authorLink": "https://www.firebrandgames.com/",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -2090,7 +2090,7 @@
         "author": "Firebrand Games",
         "authorLink": "https://www.firebrandgames.com",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -2105,7 +2105,7 @@
         "author": "Exiient Entertainment",
         "authorLink": "https://exient.com",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -2120,7 +2120,7 @@
         "author": "Sensory Sweep Studios",
         "authorLink": "https://www.mobygames.com/company/6190/sensory-sweep-studios",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -2135,7 +2135,7 @@
         "author": "Griptonite, Inc.",
         "authorLink": "https://www.mobygames.com/company/3107/griptonite-inc",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -2150,7 +2150,7 @@
         "author": "Amaze Entertainment, Inc.",
         "authorLink": "https://www.mobygames.com/company/3109/amaze-entertainment-inc",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -2450,7 +2450,7 @@
         "author": "AleFunky",
         "authorLink": "https://github.com/AleFunky",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBA"
         ]
     },
     {
@@ -2495,7 +2495,7 @@
         "author": "RoloMaisso",
         "authorLink": "https://rolomaisso.itch.io",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "GBC"
         ]
     },
     {
@@ -2510,7 +2510,7 @@
         "author": "Nintendo EAD",
         "authorLink": "https://nintendo.com",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "NDS"
         ]
     },
     {
@@ -2570,7 +2570,7 @@
         "author": "Capcom",
         "authorLink": "https://www.capcom.com",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "PSX"
         ]
     },
     {
@@ -2585,7 +2585,7 @@
         "author": "Capcom",
         "authorLink": "https://www.capcom.com",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "N64"
         ]
     },
     {
@@ -2600,7 +2600,7 @@
         "author": "Capcom",
         "authorLink": "https://www.capcom.com",
         "special": [
-            "EmulatorJS"
+            "EmulatorJS", "PSX"
         ]
     },
     {
