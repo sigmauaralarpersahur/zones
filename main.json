@@ -3085,6 +3085,20 @@
     },
     {
         "id": 207,
+        "name": "Space Launcher",
+        "username": "sigmauralarpersahur",
+        "repository": "apps",
+        "path": "space launcher",
+        "branch": "beautifulworld",
+        "icon": "icon/IMG_1158.jpeg",
+        "html": "index.html",
+        "author": "entraptadoeztech",
+        "authorLink": "https://github.com/entraptadoeztech",
+        "special": [
+            "Apps"
+        ]
+    },
+        "id": 208,
         "name": "osu!web",
         "username": "sigmauaralarpersahur",
         "repository": "html5",
