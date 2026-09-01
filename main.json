@@ -3083,7 +3083,6 @@
             "Apps"
         ]
     },
-
     {
         "id": 207,
         "name": "osu!web",
@@ -3097,6 +3096,21 @@
         "authorLink": "https://github.com/peppy",
         "special": [
             "HTML5"
+        ]
+    },
+    {
+        "id": 208,
+        "name": "The Deadseat",
+        "username": "sigmauaralarpersahur",
+        "repository": "godot",
+        "path": "the-deadseat",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Curious Fox Sox",
+        "authorLink": "https://curious-fox-sox.itch.io/the-deadseat",
+        "special": [
+            "Godot"
         ]
     }
 ]
