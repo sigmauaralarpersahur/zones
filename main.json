@@ -3112,5 +3112,35 @@
         "special": [
             "Godot"
         ]
+    },
+    {
+        "id": 209,
+        "name": "That's Not My Neighbor",
+        "username": "sigmauaralarpersahur",
+        "repository": "godot",
+        "path": "thats-not-my-neighbor",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Nacho Sama",
+        "authorLink": "https://nachogames.itch.io/thats-not-my-neighbor",
+        "special": [
+            "Godot"
+        ]
+    },
+    {
+        "id": 210,
+        "name": "Shuck's Pumpkin Panic",
+        "username": "sigmauaralarpersahur",
+        "repository": "godot",
+        "path": "shucks-pumpkin-panic",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "unknown",
+        "authorLink": "",
+        "special": [
+            "Godot"
+        ]
     }
 ]
