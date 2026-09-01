@@ -3142,5 +3142,20 @@
         "special": [
             "Godot"
         ]
+    },
+    {
+        "id": 211,
+        "name": "Web Fishing",
+        "username": "sigmauaralarpersahur",
+        "repository": "godot",
+        "path": "web-fishing",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "lamedeveloper",
+        "authorLink": "https://lamedeveloper.itch.io/webfishing",
+        "special": [
+            "Godot"
+        ]
     }
 ]
