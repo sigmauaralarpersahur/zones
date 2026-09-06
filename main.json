@@ -973,7 +973,7 @@
     },
     {
         "id": 66,
-        "name": "Grand Theft Auto 2 (GBC)",
+        "name": "Grand Theft Auto II",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gbc/grand-theft-auto-2",
@@ -989,7 +989,7 @@
     },
     {
         "id": 67,
-        "name": "Grand Theft Auto 2 (PlayStation)",
+        "name": "Grand Theft Auto II",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "psx/grand-theft-auto-2",
@@ -1958,7 +1958,7 @@
     },
     {
         "id": 132,
-        "name": "Need for Speed: Carbon - Own the City (GBA)",
+        "name": "Need for Speed: Carbon - Own the City",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gba/need-for-speed-carbon-own-the-city",
@@ -1974,7 +1974,7 @@
     },
     {
         "id": 133,
-        "name": "Need for Speed: Carbon - Own the City (NDS)",
+        "name": "Need for Speed: Carbon - Own the City",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/need-for-speed-carbon-own-the-city",
@@ -1990,7 +1990,7 @@
     },
     {
         "id": 134,
-        "name": "Need for Speed: Most Wanted (GBA)",
+        "name": "Need for Speed: Most Wanted",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gba/need-for-speed-most-wanted",
@@ -2006,7 +2006,7 @@
     },
     {
         "id": 135,
-        "name": "Need for Speed: Underground (GBA)",
+        "name": "Need for Speed: Underground",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gba/need-for-speed-underground",
@@ -2022,7 +2022,7 @@
     },
     {
         "id": 136,
-        "name": "Need for Speed: Underground 2 (GBA)",
+        "name": "Need for Speed: Underground II",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gba/need-for-speed-underground-2",
@@ -2038,7 +2038,7 @@
     },
     {
         "id": 137,
-        "name": "Need for Speed: Porsche Unleashed (GBA)",
+        "name": "Need for Speed: Porsche Unleashed",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gba/need-for-speed-porsche-unleashed",
@@ -2054,7 +2054,7 @@
     },
     {
         "id": 138,
-        "name": "Need for Speed: Underground 2 (NDS)",
+        "name": "Need for Speed: Underground II",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/need-for-speed-underground-2",
@@ -2070,7 +2070,7 @@
     },
     {
         "id": 139,
-        "name": "Need for Speed: Nitro (NDS)",
+        "name": "Need for Speed: Nitro",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/need-for-speed-nitro",
@@ -2086,7 +2086,7 @@
     },
     {
         "id": 139,
-        "name": "Need for Speed: Undercover (NDS)",
+        "name": "Need for Speed: Undercover",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/need-for-speed-undercover",
@@ -2102,7 +2102,7 @@
     },
     {
         "id": 140,
-        "name": "Need for Speed: Prostreet (NDS)",
+        "name": "Need for Speed: Prostreet",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/need-for-speed-prostreet",
@@ -2118,7 +2118,7 @@
     },
     {
         "id": 141,
-        "name": "Need for Speed: Most Wanted (NDS)",
+        "name": "Need for Speed: Most Wanted",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/need-for-speed-most-wanted",
