@@ -3265,5 +3265,20 @@
             "EmulatorJS",
             "PSX"
         ]
+    },
+    {
+        "id": 216,
+        "name": "VoxelParkour.io",
+        "username": "sigmauaralarpersahur",
+        "repository": "gdevelop",
+        "path": "voxelparkour-io",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "VoxelParkour.io",
+        "authorLink": "https://www.indiedb.com/members/voxelparkourio",
+        "special": [
+            "GDevelop"
+        ]
     }
 ]
