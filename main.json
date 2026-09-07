@@ -181,7 +181,7 @@
     },
     {
         "id": 13,
-        "name": "Geometry Dash The Seven Seas",
+        "name": "Geometry Dash Meltdown",
         "username": "sigmauaralarpersahur",
         "repository": "unity",
         "path": "geometry-dash-the-seven-seas",
@@ -345,56 +345,11 @@
         ]
     },
     {
-        "id": 25,
-        "name": "Geometry Dash Deadlocked",
-        "username": "sigmauaralarpersahur",
-        "repository": "unity",
-        "path": "geometry-dash-deadlocked",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "Unknown Developer",
-        "authorLink": "https://gn-science.github.io/",
-        "special": [
-            "Unity"
-        ]
-    },
-    {
         "id": 26,
         "name": "Geometry Dash Breeze (Remake)",
         "username": "sigmauaralarpersahur",
         "repository": "unity",
         "path": "geometry-dash-breeze",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "Unknown Developer",
-        "authorLink": "https://gn-science.github.io/",
-        "special": [
-            "Unity"
-        ]
-    },
-    {
-        "id": 27,
-        "name": "Geometry Dash Meltdown (Remake)",
-        "username": "sigmauaralarpersahur",
-        "repository": "unity",
-        "path": "geometry-dash-meltdown",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "Unknown Developer",
-        "authorLink": "https://gn-science.github.io/",
-        "special": [
-            "Unity"
-        ]
-    },
-    {
-        "id": 28,
-        "name": "Geometry Dash Bloodbath",
-        "username": "sigmauaralarpersahur",
-        "repository": "unity",
-        "path": "geometry-dash-bloodbath",
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
