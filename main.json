@@ -2680,7 +2680,7 @@
         "author": "Interplay Entertainment",
         "authorLink": "https://www.interplay.com/",
         "special": [
-            "DOSBox"
+            "MS-DOS"
         ]
     },
     {
@@ -3234,6 +3234,66 @@
         "authorLink": "https://www.indiedb.com/members/voxelparkourio",
         "special": [
             "GDevelop"
+        ]
+    },
+    {
+        "id": 217,
+        "name": "Blood",
+        "username": "sigmauaralarpersahur",
+        "repository": "dosbox",
+        "path": "blood",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Monolith Productions",
+        "authorLink": "https://www.lith.com/",
+        "special": [
+            "MS-DOS"
+        ]
+    },
+    {
+        "id": 218,
+        "name": "Doom",
+        "username": "sigmauaralarpersahur",
+        "repository": "dosbox",
+        "path": "doom",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "id Software",
+        "authorLink": "https://doom.bethesda.net/en-US/doom_doomii",
+        "special": [
+            "MS-DOS"
+        ]
+    },
+    {
+        "id": 219,
+        "name": "Doom 2",
+        "username": "sigmauaralarpersahur",
+        "repository": "dosbox",
+        "path": "doom-2",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "id Software",
+        "authorLink": "https://doom.bethesda.net/en-US/doom_doomii",
+        "special": [
+            "MS-DOS"
+        ]
+    },
+    {
+        "id": 220,
+        "name": "The Oregon Trail",
+        "username": "sigmauaralarpersahur",
+        "repository": "dosbox",
+        "path": "the-oregon-trail",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "MECC Games",
+        "authorLink": "https://www.mobygames.com/company/936/mecc/games/",
+        "special": [
+            "MS-DOS"
         ]
     }
 ]
