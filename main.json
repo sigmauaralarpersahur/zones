@@ -3295,5 +3295,20 @@
         "special": [
             "MS-DOS"
         ]
+    },
+    {
+        "id": 221,
+        "name": "G-Switch 3",
+        "username": "sigmauaralarpersahur",
+        "repository": "haxeflixel",
+        "path": "g-switch-3",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Serius Games",
+        "authorLink": "https://play.google.com/store/apps/dev?id=5322548147209064810",
+        "special": [
+            "HaxeFlixel"
+        ]
     }
 ]
