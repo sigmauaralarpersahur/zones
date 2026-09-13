@@ -166,7 +166,7 @@
     },
     {
         "id": 13,
-        "name": "Geometry Dash Meltdown",
+        "name": "Geometry Dash Meltdown (Remake)",
         "username": "sigmauaralarpersahur",
         "repository": "unity",
         "path": "geometry-dash-the-seven-seas",
@@ -913,7 +913,7 @@
     },
     {
         "id": 66,
-        "name": "Grand Theft Auto II",
+        "name": "Grand Theft Auto 2",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gbc/grand-theft-auto-2",
@@ -929,7 +929,7 @@
     },
     {
         "id": 67,
-        "name": "Grand Theft Auto II",
+        "name": "Grand Theft Auto 2",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "psx/grand-theft-auto-2",
@@ -961,7 +961,7 @@
     },
     {
         "id": 69,
-        "name": "Super Smash Bros.",
+        "name": "Super Smash Bros. (1999)",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "n64/super-smash-bros",
@@ -1962,7 +1962,7 @@
     },
     {
         "id": 136,
-        "name": "Need for Speed: Underground II",
+        "name": "Need for Speed: Underground 2",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gba/need-for-speed-underground-2",
@@ -1994,7 +1994,7 @@
     },
     {
         "id": 138,
-        "name": "Need for Speed: Underground II",
+        "name": "Need for Speed: Underground 2",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/need-for-speed-underground-2",
@@ -2090,7 +2090,7 @@
     },
     {
         "id": 143,
-        "name": "Lego Star Wars II: The Original Trilogy",
+        "name": "Lego Star Wars 2: The Original Trilogy",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "gba/lego-star-wars-2-the-original-trilogy",
@@ -2468,21 +2468,6 @@
         ]
     },
     {
-        "id": 169,
-        "name": "HawkTV (32Watch)",
-        "username": "sigmauaralarpersahur",
-        "repository": "apps",
-        "path": "hawk-tv",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "Hawk Studio",
-        "authorLink": "https://github.com/hawkstudio900",
-        "special": [
-            "Apps"
-        ]
-    },
-    {
         "id": 170,
         "name": "Mini HTML Viewer",
         "username": "sigmauaralarpersahur",
@@ -2594,7 +2579,7 @@
     },
     {
         "id": 177,
-        "name": "Counter Strike (NDS)",
+        "name": "Counter Strike (Demake)",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/counter-strike",
@@ -2655,7 +2640,7 @@
     },
     {
         "id": 181,
-        "name": "The Legend of Zelda: Breath of the Wild (NDS)",
+        "name": "The Legend of Zelda: Breath of the Wild (Demake)",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/the-legend-of-zelda-breath-of-the-wild",
@@ -2813,7 +2798,7 @@
     },
     {
         "id": 191,
-        "name": "Galaga (NES)",
+        "name": "Galaga",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nes/galaga",
@@ -3145,7 +3130,7 @@
     },
     {
         "id": 213,
-        "name": "Need for Speed II",
+        "name": "Need for Speed 2",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "psx/need-for-speed-2",
@@ -3161,7 +3146,7 @@
     },
     {
         "id": 214,
-        "name": "Need for Speed III: Hot Pursuit",
+        "name": "Need for Speed 3: Hot Pursuit",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "psx/need-for-speed-3-hot-pursuit",
