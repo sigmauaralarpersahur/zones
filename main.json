@@ -887,23 +887,8 @@
         ]
     },
     {
-        "id": 71,
-        "name": "Eaglercraft 1.20.4 (1.8.8 Backport)",
-        "username": "sigmauaralarpersahur",
-        "repository": "html5",
-        "path": "eaglercraft-1.20.4",
-        "branch": "main",
-        "icon": "icon.svg",
-        "html": "index.html",
-        "author": "EaglercraftZ",
-        "authorLink": "https://eaglercraftz.pages.dev/",
-        "special": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 72,
-        "name": "Minecraft 1.20.4",
+        "name": "Minecraft 1.20.4 (1.8.8 Backport)",
         "username": "sigmauaralarpersahur",
         "repository": "html5",
         "path": "eaglercraft-1.20.4",
