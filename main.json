@@ -390,111 +390,6 @@
         ]
     },
     {
-        "id": 32,
-        "name": "Eaglercraft 1.12.2",
-        "username": "sigmauaralarpersahur",
-        "repository": "html5",
-        "path": "eaglercraft-1.12.2",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
-        "special": [
-            "HTML5"
-        ]
-    },
-    {
-        "id": 33,
-        "name": "Eaglercraft 1.5.2",
-        "username": "sigmauaralarpersahur",
-        "repository": "html5",
-        "path": "eaglercraft-1.5.2",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
-        "special": [
-            "HTML5"
-        ]
-    },
-    {
-        "id": 34,
-        "name": "Eaglercraft 1.8.8",
-        "username": "sigmauaralarpersahur",
-        "repository": "html5",
-        "path": "eaglercraft-1.8.8",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
-        "special": [
-            "HTML5"
-        ]
-    },
-    {
-        "id": 35,
-        "name": "Eaglercraft Beta 1.3",
-        "username": "sigmauaralarpersahur",
-        "repository": "html5",
-        "path": "eaglercraft-beta-1.3",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
-        "special": [
-            "HTML5"
-        ]
-    },
-    {
-        "id": 36,
-        "name": "Eaglercraft Beta 1.7.3",
-        "username": "sigmauaralarpersahur",
-        "repository": "html5",
-        "path": "eaglercraft-beta-1.7.3",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
-        "special": [
-            "HTML5"
-        ]
-    },
-    {
-        "id": 37,
-        "name": "Eaglercraft Alpha 1.2.6",
-        "username": "sigmauaralarpersahur",
-        "repository": "html5",
-        "path": "eaglercraft-alpha-1.2.6",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
-        "special": [
-            "HTML5"
-        ]
-    },
-    {
-        "id": 38,
-        "name": "Eaglercraft Indev",
-        "username": "sigmauaralarpersahur",
-        "repository": "html5",
-        "path": "eaglercraft-indev",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
-        "special": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 39,
         "name": "Minecraft 1.12.2",
         "username": "sigmauaralarpersahur",
@@ -993,7 +888,7 @@
     },
     {
         "id": 71,
-        "name": "Eaglercraft 1.20.4",
+        "name": "Eaglercraft 1.20.4 (1.8.8 Backport)",
         "username": "sigmauaralarpersahur",
         "repository": "html5",
         "path": "eaglercraft-1.20.4",
@@ -3294,6 +3189,36 @@
         "authorLink": "https://store.steampowered.com/developer/davidszymanski/",
         "special": [
             "Unity"
+        ]
+    },
+    {
+        "id": 224,
+        "name": "Minecraft 1.20.6",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "eaglercraft-1.20.6",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 225,
+        "name": "Minecraft 26.2",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "eaglercraft-26.2",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
         ]
     }
 ]
