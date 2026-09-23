@@ -555,21 +555,6 @@
         ]
     },
     {
-        "id": 49,
-        "name": "Doki Doki Literature Club!",
-        "username": "sigmauaralarpersahur",
-        "repository": "renpy",
-        "path": "doki-doki-literature-club",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "Team Salvato",
-        "authorLink": "https://teamsalvato.itch.io/ddlc",
-        "special": [
-            "Ren'Py"
-        ]
-    },
-    {
         "id": 50,
         "name": "Famidash",
         "username": "sigmauaralarpersahur",
