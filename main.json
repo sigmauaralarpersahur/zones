@@ -1112,21 +1112,6 @@
         ]
     },
     {
-        "id": 87,
-        "name": "Russian Car Driver",
-        "username": "sigmauaralarpersahur",
-        "repository": "unity",
-        "path": "russian-car-driver",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "IDnet",
-        "authorLink": "#",
-        "special": [
-            "Unity"
-        ]
-    },
-    {
         "id": 88,
         "name": "Slope 2",
         "username": "sigmauaralarpersahur",
