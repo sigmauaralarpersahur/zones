@@ -757,12 +757,12 @@
         "name": "Soundboard",
         "username": "sigmauaralarpersahur",
         "repository": "apps",
-        "path": "soundboard-genizy",
+        "path": "soundboard-3kh0",
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
-        "author": "Genizy",
-        "authorLink": "https://github.com/genizy/",
+        "author": "3kh0",
+        "authorLink": "#",
         "special": [
             "Apps"
         ]
@@ -3172,6 +3172,81 @@
         "html": "index.html",
         "author": "lax1dude",
         "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 226,
+        "name": "CDN Search",
+        "username": "sigmauaralarpersahur",
+        "repository": "apps",
+        "path": "cdn-search",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "dinguschan!",
+        "authorLink": "https://github.com/dinguschan-owo",
+        "special": [
+            "Apps"
+        ]
+    },
+    {
+        "id": 227,
+        "name": "Zombie Rush",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "zombe-rush",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Endless Pixels",
+        "authorLink": "https://play.google.com/store/apps/details?id=com.endlesspixels.zombierush&hl=en_US",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 228,
+        "name": "MineKhan Classic",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "minekhan-classic",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Willard",
+        "authorLink": "https://willard.fun/minekhan",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 229,
+        "name": "MineKhan Alpha",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "minekhan-alpha",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Willard",
+        "authorLink": "https://willard.fun/minekhan",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 230,
+        "name": "MineKhan Beta",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "minekhan-beta",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Willard",
+        "authorLink": "https://willard.fun/minekhan",
         "special": [
             "HTML5"
         ]
