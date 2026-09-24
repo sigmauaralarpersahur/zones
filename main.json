@@ -2739,7 +2739,7 @@
     },
     {
         "id": 197,
-        "name": "Among Us",
+        "name": "Among Us (2019)",
         "username": "sigmauaralarpersahur",
         "repository": "unity",
         "path": "among-us",
@@ -3249,6 +3249,21 @@
         "authorLink": "https://willard.fun/minekhan",
         "special": [
             "HTML5"
+        ]
+    },
+    {
+        "id": 231,
+        "name": "Among Us (2026)",
+        "username": "sigmauaralarpersahur",
+        "repository": "unity",
+        "path": "among-us-2026.6.5",
+        "branch": "main",
+        "icon": "icon.svg",
+        "html": "index.html",
+        "author": "Innersloth",
+        "authorLink": "https://www.innersloth.com/",
+        "special": [
+            "Unity"
         ]
     }
 ]
