@@ -2723,21 +2723,6 @@
         ]
     },
     {
-        "id": 196,
-        "name": "Angry Birds Epic",
-        "username": "sigmauaralarpersahur",
-        "repository": "unity",
-        "path": "angry-birds-epic",
-        "branch": "main",
-        "icon": "icon.png",
-        "html": "index.html",
-        "author": "Chimera Entertainment",
-        "authorLink": "https://chimera-entertainment.com/",
-        "special": [
-            "Unity"
-        ]
-    },
-    {
         "id": 197,
         "name": "Among Us (2019)",
         "username": "sigmauaralarpersahur",
