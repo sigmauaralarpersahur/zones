@@ -3250,5 +3250,22 @@
         "special": [
             "Unity"
         ]
+    },
+
+    {
+        "id": 232,
+        "name": "Super Mario World",
+        "username": "sigmauaralarpersahur",
+        "repository": "emulatorjs",
+        "path": "snes/super-mario-world",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Nintendo EAD",
+        "authorLink": "https://nintendo.com",
+        "special": [
+            "EmulatorJS",
+            "SNES"
+        ]
     }
 ]
