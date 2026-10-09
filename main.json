@@ -3267,5 +3267,35 @@
             "EmulatorJS",
             "SNES"
         ]
+    },
+    {
+        "id": 232,
+        "name": "ʘ",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "ʘ",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Unknown",
+        "authorLink": "https://gn-sciencex.github.io/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 233,
+        "name": "Stickman Hook",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "stickman-hook",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "MadBox Games SAS",
+        "authorLink": "https://play.google.com/store/apps/dev?id=5783349908488911518",
+        "special": [
+            "HTML5"
+        ]
     }
 ]
