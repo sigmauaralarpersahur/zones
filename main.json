@@ -3297,5 +3297,20 @@
         "special": [
             "HTML5"
         ]
+    },
+    {
+        "id": 235,
+        "name": "Team Fortress 2",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "team-fortess-2",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Valve",
+        "authorLink": "https://www.valvesoftware.com/en/",
+        "special": [
+            "HTML5"
+        ]
     }
 ]
