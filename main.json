@@ -3312,5 +3312,20 @@
         "special": [
             "HTML5"
         ]
+    },
+    {
+        "id": 236,
+        "name": "Super Liquid Soccer",
+        "username": "sigmauaralarpersahur",
+        "repository": "godot",
+        "path": "super-liquid-soccer",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Punyrobot",
+        "authorLink": "https://punyrobot.com",
+        "special": [
+            "Godot"
+        ]
     }
 ]
