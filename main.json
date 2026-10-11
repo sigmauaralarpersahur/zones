@@ -1551,7 +1551,7 @@
         "name": "Geometry Dash (Remake)",
         "username": "sigmauaralarpersahur",
         "repository": "html5",
-        "path": "geometry-dash",
+        "path": "web-dashers",
         "branch": "main",
         "icon": "icon.svg",
         "html": "index.html",
@@ -2723,6 +2723,21 @@
         ]
     },
     {
+        "id": 196,
+        "name": "Angry Birds Epic",
+        "username": "sigmauaralarpersahur",
+        "repository": "unity",
+        "path": "angry-birds-epic",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Chimera Entertainment",
+        "authorLink": "https://chimera-entertainment.com/",
+        "special": [
+            "Unity"
+        ]
+    },
+    {
         "id": 197,
         "name": "Among Us (2019)",
         "username": "sigmauaralarpersahur",
@@ -3340,6 +3355,21 @@
         "authorLink": "https://zeekerss.itch.io/",
         "special": [
             "Unity"
+        ]
+    },
+    {
+        "id": 238,
+        "name": "Geometry Dash",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "geometry-dash",
+        "branch": "main",
+        "icon": "icon.svg",
+        "html": "index.html",
+        "author": "RobTop Games",
+        "authorLink": "https://www.robtopgames.com/",
+        "special": [
+            "HTML5"
         ]
     }
 ]
