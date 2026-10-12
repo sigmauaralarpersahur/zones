@@ -3371,5 +3371,37 @@
         "special": [
             "HTML5"
         ]
+    },
+    {
+        "id": 239,
+        "name": "Galaga: Destination Earth",
+        "username": "sigmauaralarpersahur",
+        "repository": "emulatorjs",
+        "path": "gbc/galaga-destination-earth",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Pipedream Interactive, Inc.",
+        "authorLink": "https://www.mobygames.com/company/2042/pipedream-interactive-inc/",
+        "special": [
+            "EmulatorJS",
+            "GBC"
+        ]
+    },
+    {
+        "id": 240,
+        "name": "Galaga: Destination Earth",
+        "username": "sigmauaralarpersahur",
+        "repository": "emulatorjs",
+        "path": "psx/galaga-destination-earth",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "King of the Jungle Ltd.",
+        "authorLink": "https://www.mobygames.com/company/2203/king-of-the-jungle-ltd/",
+        "special": [
+            "EmulatorJS",
+            "PSX"
+        ]
     }
 ]
