@@ -3403,5 +3403,37 @@
             "EmulatorJS",
             "PSX"
         ]
+    },
+    {
+        "id": 241,
+        "name": "Super Mario 64",
+        "username": "sigmauaralarpersahur",
+        "repository": "emulatorjs",
+        "path": "n64/super-mario-64",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Nintendo EAD",
+        "authorLink": "https://nintendo.com/",
+        "special": [
+            "EmulatorJS",
+            "N64"
+        ]
+    },
+    {
+        "id": 242,
+        "name": "The Legend of Zelda: Majora's Mask",
+        "username": "sigmauaralarpersahur",
+        "repository": "emulatorjs",
+        "path": "n64/the-legend-of-zelda-mojoras-mask",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Nintendo EAD",
+        "authorLink": "https://nintendo.com/",
+        "special": [
+            "EmulatorJS",
+            "N64"
+        ]
     }
 ]
