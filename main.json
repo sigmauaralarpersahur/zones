@@ -876,7 +876,7 @@
         "name": "Minecraft 1.20.4 (1.8.8 Backport)",
         "username": "sigmauaralarpersahur",
         "repository": "html5",
-        "path": "eaglercraft-1.20.4",
+        "path": "eaglercraft-1.20.4-backport",
         "branch": "main",
         "icon": "icon.svg",
         "html": "index.html",
