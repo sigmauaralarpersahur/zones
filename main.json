@@ -3435,5 +3435,20 @@
             "EmulatorJS",
             "N64"
         ]
+    },
+    {
+        "id": 243,
+        "name": "Minecraft 26.3",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "eaglercraft-26.3",
+        "branch": "main",
+        "icon": "icon.svg",
+        "html": "index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
     }
 ]
