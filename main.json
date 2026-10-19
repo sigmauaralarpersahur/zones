@@ -3450,5 +3450,20 @@
         "special": [
             "HTML5"
         ]
+    },
+    {
+        "id": 244,
+        "name": "Multiplayer Platformer",
+        "username": "sigmauaralarpersahur",
+        "repository": "scratch",
+        "path": "platformer-mmo",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "griffpatch",
+        "authorLink": "https://scratch.mit.edu/users/griffpatch/",
+        "special": [
+            "Scratch"
+        ]
     }
 ]
