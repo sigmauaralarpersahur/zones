@@ -398,8 +398,8 @@
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -413,8 +413,8 @@
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -428,8 +428,8 @@
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -443,8 +443,8 @@
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -458,8 +458,8 @@
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -473,8 +473,8 @@
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -488,8 +488,8 @@
         "branch": "main",
         "icon": "icon.png",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -3155,8 +3155,8 @@
         "branch": "main",
         "icon": "icon.svg",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -3170,8 +3170,8 @@
         "branch": "main",
         "icon": "icon.svg",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -3445,8 +3445,8 @@
         "branch": "main",
         "icon": "icon.svg",
         "html": "index.html",
-        "author": "lax1dude",
-        "authorLink": "https://eaglercraft.com/",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
         "special": [
             "HTML5"
         ]
@@ -3464,6 +3464,21 @@
         "authorLink": "https://scratch.mit.edu/users/griffpatch/",
         "special": [
             "Scratch"
+        ]
+    },
+    {
+        "id": 245,
+        "name": "Hill Climb Racing",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "hill-climb-racing",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Fingersoft",
+        "authorLink": "https://fingersoft.com",
+        "special": [
+            "HTML5"
         ]
     }
 ]
