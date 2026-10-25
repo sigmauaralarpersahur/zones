@@ -3510,5 +3510,20 @@
         "special": [
             "Scratch"
         ]
+    },
+    {
+        "id": 248,
+        "name": "Paper Minecraft Online: Enhanced Edition",
+        "username": "sigmauaralarpersahur",
+        "repository": "scratch",
+        "path": "paper-minecraft-online-enhanced-edition",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Martin_MMC",
+        "authorLink": "https://scratch.mit.edu/users/martin_mmc/",
+        "special": [
+            "Scratch"
+        ]
     }
 ]
