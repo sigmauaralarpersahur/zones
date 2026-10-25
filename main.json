@@ -3480,5 +3480,20 @@
         "special": [
             "HTML5"
         ]
+    },
+    {
+        "id": 246,
+        "name": "Minecraft 1.6.4 (Modded)",
+        "username": "sigmauaralarpersahur",
+        "repository": "html5",
+        "path": "eaglercraft-1.6.4-modded",
+        "branch": "main",
+        "icon": "icon.svg",
+        "html": "index.html",
+        "author": "Mojang",
+        "authorLink": "https://www.minecraft.net/",
+        "special": [
+            "HTML5"
+        ]
     }
 ]
