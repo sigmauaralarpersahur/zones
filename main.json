@@ -3525,5 +3525,20 @@
         "special": [
             "Scratch"
         ]
+    },
+    {
+        "id": 249,
+        "name": "Appel",
+        "username": "sigmauaralarpersahur",
+        "repository": "scratch",
+        "path": "appel",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "griffpatch",
+        "authorLink": "https://scratch.mit.edu/users/griffpatch/",
+        "special": [
+            "Scratch"
+        ]
     }
 ]
