@@ -144,13 +144,13 @@
         "icon": "icon.png",
         "html": "index.html",
         "author": "Arsi Patala",
-        "authorLink": "https://store.steampowered.com/app/1229490/ULTRAKILL/",
+        "authorLink": "https://store.steampowered.com/app/19490/ULTRAKILL/",
         "special": [
             "Unity"
         ]
     },
     {
-        "id": 12,
+        "id": 1,
         "name": "Buckshot Roulette",
         "username": "sigmauaralarpersahur",
         "repository": "godot",
@@ -1524,7 +1524,7 @@
         "path": "hill-climb-racing-2",
         "branch": "main",
         "icon": "icon.png",
-        "html": "single-file.html",
+        "html": "index.html",
         "author": "Martin_MMC",
         "authorLink": "https://scratch.mit.edu/users/martin_mmc/",
         "special": [
