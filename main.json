@@ -3495,5 +3495,20 @@
         "special": [
             "HTML5"
         ]
+    },
+    {
+        "id": 247,
+        "name": "Slither.io: Scratch Edition",
+        "username": "sigmauaralarpersahur",
+        "repository": "scratch",
+        "path": "slither-io-scratch-edition",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "griffpatch",
+        "authorLink": "https://scratch.mit.edu/users/griffpatch/",
+        "special": [
+            "Scratch"
+        ]
     }
 ]
