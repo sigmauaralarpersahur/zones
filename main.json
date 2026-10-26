@@ -3540,5 +3540,20 @@
         "special": [
             "Scratch"
         ]
+    },
+    {
+        "id": 250,
+        "name": "Fortnite Z",
+        "username": "sigmauaralarpersahur",
+        "repository": "scratch",
+        "path": "fortnite-z",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "FunnyAnimatorJimTV",
+        "authorLink": "https://scratch.mit.edu/users/FunnyAnimatorJimTV/",
+        "special": [
+            "Scratch"
+        ]
     }
 ]
