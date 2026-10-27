@@ -3555,5 +3555,35 @@
         "special": [
             "Scratch"
         ]
+    },
+    {
+        "id": 251,
+        "name": "Five Nights at Freddy's: Into the Pit",
+        "username": "sigmauaralarpersahur",
+        "repository": "unity",
+        "path": "five-nights-at-freddys-into-the-pit",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "Mega Cat Studios",
+        "authorLink": "https://megacatstudios.com/?srsltid=AYCX9vIyA-bgFCq9mkuru4blSYVaRgoDEtmCh1Z_vCRsS9L4p5BqnV0x",
+        "special": [
+            "Unity"
+        ]
+    },
+    {
+        "id": 252,
+        "name": "Gamble With Your Friends",
+        "username": "sigmauaralarpersahur",
+        "repository": "unity",
+        "path": "gamble-with-your-friends",
+        "branch": "main",
+        "icon": "icon.png",
+        "html": "index.html",
+        "author": "TEAM GWYF",
+        "authorLink": "https://store.steampowered.com/developer/TEAM-GWYF",
+        "special": [
+            "Unity"
+        ]
     }
 ]
