@@ -2067,7 +2067,7 @@
         "path": "among-us-jester-mod",
         "branch": "main",
         "icon": "icon.png",
-        "html": "single-file.html",
+        "html": "index.html",
         "author": "TimMcCool",
         "authorLink": "https://scratch.mit.edu/users/timmccool",
         "special": [
