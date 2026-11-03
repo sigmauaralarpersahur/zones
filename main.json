@@ -556,7 +556,7 @@
     },
     {
         "id": 50,
-        "name": "Famidash",
+        "name": "Famidash (Geometry Dash Demake)",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nes/famidash",
@@ -1700,7 +1700,7 @@
     },
     {
         "id": 129,
-        "name": "Call of Duty: Black Ops (NDS)",
+        "name": "Call of Duty: Black Ops",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/call-of-duty-black-ops",
@@ -2600,7 +2600,7 @@
     },
     {
         "id": 188,
-        "name": "LEGO Ninjago: The Videogame",
+        "name": "LEGO Battles: Ninjago",
         "username": "sigmauaralarpersahur",
         "repository": "emulatorjs",
         "path": "nds/lego-ninjago-the-videogame",
